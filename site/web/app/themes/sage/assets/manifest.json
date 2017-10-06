@@ -12,6 +12,11 @@
       ],
       "main": true
     },
+    "portfolio.js": {
+      "files": [
+          "scripts/portfolio.js"
+      ]
+  },
     "customizer.js": {
       "files": [
         "scripts/customizer.js"
@@ -22,6 +27,6 @@
     }
   },
   "config": {
-    "devUrl": "http://roots-example-project.dev"
+    "devUrl": "http://farrahjean-portfolio.dev"
   }
 }
